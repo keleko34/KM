@@ -1,0 +1,56 @@
+{
+  "name": "KM",
+  "version": "1.0.0",
+  "description": "A helper for making functional modules",
+  "keywords": [
+    "functional programming",
+    "functional library",
+    "functional helper"
+  ],
+  "author": {
+    "name": "Keleko34",
+    "email": "gregory.guidero@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Gregory Guidero"
+    }
+  ],
+  "main": "index",
+  "engines": [
+    "node >= 0.8.0"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://en.wikipedia.org/wiki/MIT_License"
+    }
+  ],
+  "repository":{
+    "type": "git",
+    "url": "git://github.com/keleko34/KM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keleko34/KM/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-closure-compiler": "^0.4.0",
+    "gulp-file": "^0.2.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-prompt": "^0.1.2",
+    "gulp-replace": "^0.5.4",
+    "sort-stream": "^1.0.1"
+  },
+  "scripts": {
+    "build": "gulp build"
+  },
+  "maintainers": [
+    {
+      "name": "keleko34",
+      "email": "gregory.guidero@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
